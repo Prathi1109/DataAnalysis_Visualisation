@@ -14,4 +14,4 @@ Answer - Uptown Cars \
 4. In what year was the average price of a corvette greater than 100k?\
 Answer - 2003 \
 5. Which car has several points in the box plot's far right upper quartile for the engines horsepower? \
-Answer - Corvette **
+Answer - Corvette**
